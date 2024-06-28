@@ -3,7 +3,7 @@ import round.RoundHole;
 import round.RoundPeg;
 import square.SquarePeg;
 
-public class Demo {
+public class AdapterDemo {
     public static void main(String[] args) {
         RoundHole roundHole = new RoundHole(5);
         RoundPeg roundPeg = new RoundPeg(5);

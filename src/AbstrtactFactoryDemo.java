@@ -3,7 +3,7 @@ import factories.GUIFactory;
 import factories.MacOSFactory;
 import factories.WindowFactory;
 
-public class Main {
+public class AbstrtactFactoryDemo {
 
     public static Application configureApplication(){
         Application app;
